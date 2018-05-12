@@ -4,7 +4,7 @@
  * @url /test-api
  */
 {
-  "code": 401,
+  "code": 0,
   "result|10": [
     {
       "uid|+1": 1,
