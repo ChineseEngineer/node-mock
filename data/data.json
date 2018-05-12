@@ -1,0 +1,16 @@
+/**
+ * test接口
+ *
+ * @url /test-api
+ */
+{
+  "code": 401,
+  "result|10": [
+    {
+      "uid|+1": 1,
+      "name": "@name",
+      "email": "@email"
+    }
+  ],
+  "msg": "success"
+}
